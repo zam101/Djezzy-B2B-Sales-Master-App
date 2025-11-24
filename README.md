@@ -7,6 +7,7 @@ The project consists of a **web platform for supervisors** and a **mobile app fo
 
 
 ![](./pics/some_screenshots.png)
+![](./pics/dark_mode.png)
 
 ## 🚀 My Role
 
